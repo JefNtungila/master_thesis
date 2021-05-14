@@ -1,0 +1,305 @@
+            user_name                         game_name  \
+0            Quackity                         Minecraft   
+1               xQcOW                Grand Theft Auto V   
+2       tommyinnitalt                         Minecraft   
+3           NICKMERCS             Call of Duty: Warzone   
+4          Flashpoint  Counter-Strike: Global Offensive   
+5            HasanAbi                     Just Chatting   
+6        TimTheTatman             Call of Duty: Warzone   
+7     TSM_ImperialHal                      Apex Legends   
+8           loltyler1                 League of Legends   
+9              buddha                Grand Theft Auto V   
+10            Nihachu                     Just Chatting   
+11               Clix                          Fortnite   
+12         RatedEpicz                Grand Theft Auto V   
+13        Castro_1021                           FIFA 21   
+14              LIRIK                   EA Sports UFC 4   
+15          SmiteGame                             SMITE   
+16            Kitboga                     Just Chatting   
+17           ROSHTEIN                             Slots   
+18           pokimane                     Just Chatting   
+19              Gorgc                            Dota 2   
+20         Riot Games                 League of Legends   
+21            btscsgo  Counter-Strike: Global Offensive   
+22             forsen            Subnautica: Below Zero   
+23          lilypichu                      Gartic Phone   
+24          BotezLive                     Just Chatting   
+25      Flight23white                     Madden NFL 21   
+26      AdmiralBahroo                  Dead by Daylight   
+27          UMGGaming                           Gears 5   
+28           daltoosh                      Apex Legends   
+29           LVNDMARK                Escape from Tarkov   
+30           EsfandTV                Grand Theft Auto V   
+31        Distortion2             Resident Evil Village   
+32            cloakzy             Call of Duty: Warzone   
+33       AussieAntics                          Fortnite   
+34           HusKerrs             Call of Duty: Warzone   
+35           SmallAnt                         Minecraft   
+36            Elajjaz            Subnautica: Below Zero   
+37           summit1g                              Rust   
+38         LuluLuvely                      Apex Legends   
+39            ShivFPS                      Apex Legends   
+40       Northernlion                       Love Letter   
+41       ChilledChaos                          Among Us   
+42              Ramee                Grand Theft Auto V   
+43           dasMEHDI                Grand Theft Auto V   
+44           CodeMiko                     Just Chatting   
+45                W2S                Grand Theft Auto V   
+46             veibae             Resident Evil Village   
+47              Dendi                            Dota 2   
+48            Sacriel            Subnautica: Below Zero   
+49          lilsimsie                        The Sims 4   
+50       twitchgaming                    Special Events   
+51           DeuceAce                             Slots   
+52         Five0AnthO                Grand Theft Auto V   
+53         QuickyBaby                    World of Tanks   
+54        itsRyanHiga                          VALORANT   
+55        SteveSuptic                          VALORANT   
+56          skill4ltu                    World of Tanks   
+57       GernaderJake                         Destiny 2   
+58             Tomato                         Minecraft   
+59            Mathil1                     Path of Exile   
+60         Nightblue3                 League of Legends   
+61              ops1x                          Fortnite   
+62          ExoHydraX                     Just Chatting   
+63         OGADotaPIT                            Dota 2   
+64              Becca                 Teamfight Tactics   
+65      Taylor_Jevaux                     Just Chatting   
+66          JustaMinx                     Just Chatting   
+67             melina                     Just Chatting   
+68               Payo                 World of Warcraft   
+69            itsHafu                          VALORANT   
+70           Zentreya     Mass Effect Legendary Edition   
+71            Wirtual                        TrackMania   
+72        QuarterJade                          VALORANT   
+73               Burn                Grand Theft Auto V   
+74              Grimm                          VALORANT   
+75     CrankGameplays             Resident Evil Village   
+76            Naguura                 World of Warcraft   
+77              Sajam               Guilty Gear: Strive   
+78             Ray__C                Grand Theft Auto V   
+79             JASONR                          VALORANT   
+80            Nick28T                           FIFA 21   
+81             Zerkaa            Subnautica: Below Zero   
+82            HutchMF                Grand Theft Auto V   
+83         Sanchovies                 League of Legends   
+84           bmkibler                       Hearthstone   
+85            JERICHO                     Just Chatting   
+86         IFrostBolt                         Destiny 2   
+87              Datto                         Destiny 2   
+88     TheRunningManZ                              DayZ   
+89            LunaOni                Grand Theft Auto V   
+90            Destiny                     Just Chatting   
+91       FollowGrubby               Heroes of the Storm   
+92           NateHill                          Fortnite   
+93        IKeepItTaco                 League of Legends   
+94  AvoidingThePuddle     Mass Effect Legendary Edition   
+95             Emongg                         Overwatch   
+96          gamergirl                 League of Legends   
+97              jorbs                    Slay the Spire   
+98         masondota2                            Dota 2   
+99           ESL_CSGO  Counter-Strike: Global Offensive   
+
+                                                title  viewer_count  \
+0                            THE MCC MINI TOURNAMENT         180848   
+1   [NoPixel] IDIOTIC MAN SPENDS EVERY PENNY BUYIN...        107826   
+2                                     MCC PRACTICE :)         77214   
+3                  Fraggin' | Code: MFAM | @NICKMERCS         63345   
+4      FPX vs HYENAS | Flashpoint 3 - Day 4 | Round 1         57592   
+5       ITS FRIDAY AND WE'RE MASK FREE (?) NOT REALLY         40337   
+6                                    bald - !youtube4         35698   
+7   $100,000 LULU'S THROWDOWN!!! (2 minute delay) ...         30180   
+8   MONSTER OF MAN ! COUNTLESS PERFORM AGAIN AND A...         28738   
+9                               Lang Buddha - NoPixel         23490   
+10  (CHARITY STREAM) We are raising money for ment...         23291   
+11         Winning Squad Finals w Deyy Mero & Reverse         22997   
+12  Randy Bullet | Chang Gang | NoPixel | !youtube...         21839   
+13     LINGARDINHO.       !freepack   @Castro1021             20074   
+14          Bussymaki Paruto - Road To Hokage Part 2          19823   
+15             SMITE Pro League Phase 1 Week 4: Day 1         19721   
+16  Calling Scammers w/ !guest pokelawls (2pm EST)...         19192   
+17  ⭐ €144.000 - 58 BONUS OPENING ⭐ €1 MIL WIN - !...         18024   
+18                                 birthday stream! 🥳         17927   
+19                             9k before june or bald         16099   
+20  (REBROADCAST) DWG KIA vs. Royal Never Give Up ...         14469   
+21  Extra Salt vs Godsent - cs_summit 8 - NA RMR -...         13148   
+22  Subnautica below zero release! Blind,hardcore,...         12451   
+23                                garlic phone w subs         11180   
+24                  GOOD VIBES & SUB BATTLES I !chess         11138   
+25                 THE WORST STREAMER ON THE INTERNET         10960   
+26  !Contest !Goal | A wee bit of Dee Bee Dee | !c...         10298   
+27  Rebel vs Vanquish | Swiss Round 3 | 2021 Gears...          9665   
+28  Lulu’s 100K Throwdown Day 2 (2 minute delay) !...          9345   
+29  TARKY | !GFUEL |!KOBE  Follow @LVNDMARK_tv on ...          9320   
+30  CAPTAIN CLETUS CORNWOOD NOPIXEL - @esfandtv al...          8346   
+31   NG Village of Shadows Speedruns (Max Difficulty)          8035   
+32  ANOTHER HARD WEEK OF WORK. 5.4KD+ !loadouts (U...          8028   
+33  Viewing Party for Reverse2k Squad Cup Finals l...          7666   
+34  ShopHusKerrs.com NEW MERCH IS LIVE | Follow @H...          7513   
+35              STREAMING UNTIL I BEAT MY SPEEDRUN PB          6996   
+36  Sea Monsters OUT - HARDCORE | !Displate @Elajj...          6986   
+37                             rusting. [ @summit1g ]          6962   
+38  NRG Lulu - $100k Lulu Throwdown Day 2- follow ...          6932   
+39  Lulu's Throwndown 2.0 tourney now with PeachFP...          6729   
+40           whats your love letter | !docket !prime           6646   
+41                         AMONG US x TOWN OF SALEM!           6516   
+42            Ramee | Chang Gang | !Twitter | NoPixel          6490   
+43  Ofc. Brian Knight - NoPixel | !pcgiveaway !gfu...          6319   
+44  !Lucy #VirtualBeings #ad SASHA GREY!!! THEN MO...          6061   
+45                        W2S DOES RACES WITH VIEWERS          5731   
+46  NO BACKSEATING! | hardcore | weebs welcome 【Vt...          5556   
+47                         climb (ultra climb) !video          5549   
+48  STREAMER WITH FEAR OF OCEAN PLAYS OCEAN GAME |...          5509   
+49  TO THE POND WITH MY ENEMIES | !donate to st. jude          5397   
+50                 Game Changers: AAPI Creator Mosaic          5331   
+51  🌰 €500.000 ROSH CUBE RACE 🌰✨ !BB for 120% NON-...          5322   
+52  BlockParty/Trooper Shit !scamathon| !LEO !merc...          5237   
+53  *!DROPS* FEELS GOOD FRIDAY POLL TANKS - 3300+W...          5059   
+54                                        derank day!          5055   
+55  Twitch's favorite Jett one-trick is learning V...          4791   
+56  Today : !DROPS Chaffee done. Now playing with ...          4784   
+57  Free !Trials Carries (!PC & !Xbox) // !Prime S...          4667   
+58  The hell-rift opens today 100% or your money b...          4527   
+59  Mathil - New Reap meta possibly? Occultist Arc...          4523   
+60  BEST MID LANER WORLDWIDE CRAZED JUICED FERMENTED           4420   
+61                    REVERSE CUP VIEWPARTY FOR A BIT          4274   
+62  🔥THICCEST HOT TUB STREAMER🔥Subs get !snapchat✨...          4256   
+63  Infamous Gaming vs Infinity Esports  | OGA DPC...          4243   
+64                                              HELP           4203   
+65  POOL BULMA BUNNY TRAMPOLINE & STRETCH💕 !youtub...          4116   
+66                     might just google myself today          3933   
+67  KIDA FROM ATLANTIS!  I instagram: melina.goran...          3819   
+68  IM BACK!! NEW EMOTES - CLASSIC ROGUE WPVP ALL DAY          3737   
+69                                    HAFU -- mornin'          3733   
+70  24 HOURS OF SPPPPPAACCCCCEEEEEEE AND GARRUS ( ...          3728   
+71  Trackmania D13 World Record TONIGHT - 1:03.90 ...          3698   
+72                             reyna main learns sage          3659   
+73       Mentle Block-- NoPixel RP -- TESCO HYPEBEAST          3552   
+74  SAGE WALLING MY WAY TO RADIANT w/ !terrestrial...          3528   
+75                                   dommy mommy time          3516   
+76  The Tarragrue- Mythic Sanctum of Domination pt...          3329   
+77  Sajam: Guilty Gear Strive Open Beta Day 2! Try...          3316   
+78  Graduated + NEW GPU!! Raymond Cleans $$$ & Dec...          3314   
+79  TOP 10 RADIANT. MOST VALUABLE UNSIGNED IGL. --...          3205   
+80  BUNDES TOTS is HERE!!!! CHAMPS! | Bundes TOTS ...          3088   
+81  SUBNAUTICA IS FINALLY RELEASED! (GTA 5 RP AFTE...          3079   
+82  Hutch “I draw my eyebrows on” Hutcherson | 30%...          3009   
+83                                   howard you doing          2901   
+84  The CDC recommends that fully vaccinated peopl...          2895   
+85                       PREMIUM INTERNET // !presave          2863   
+86  TRIALS WITH MTASHED AND ZK | Electric Frost Be...          2828   
+87  LITERALLY probably testing hunter boots out fo...          2825   
+88  Five years Full Time at this stuff at midnight...          2675   
+89  NoPixel - Claire Everly - Whoop\nDiscord.gg/Lu...          2663   
+90  Chillin', then Terraria then League with the m...          2656   
+91    [Ranked] [Gogogo] - !patch !PTRreview !tierlist          2618   
+92    Vibing in Duos I suppose | !positivity !pushups          2585   
+93  MENTAL MONK GAMER. ADC TRAINING ARC DAY #15. C...          2574   
+94  Mass Effect - Shirts and Mugs http://teespring...          2485   
+95  GOOD MORNING Friday - Live every day at 12pm E...          2481   
+96         challenger katarina 😁 - riftmaker buffs :O          2481   
+97  more spire (44/100 hearts in 13th/30 days) | p...          2451   
+98  TOP 10 IN  1 MONTH MODE MAN OF THE YEAR. GAINI...          2447   
+99  LIVE: Unicorns of Love vs. Cowana Gaming - ESL...          2430   
+
+            started_at                        time  
+0  2021-05-14 21:20:17  2021-05-14T21:38:54.076302  
+1  2021-05-14 19:51:57  2021-05-14T21:38:54.076302  
+2  2021-05-14 21:22:53  2021-05-14T21:38:54.076302  
+3  2021-05-14 15:34:11  2021-05-14T21:38:54.076302  
+4  2021-05-14 15:51:25  2021-05-14T21:38:54.076302  
+5  2021-05-14 17:57:08  2021-05-14T21:38:54.076302  
+6  2021-05-14 16:11:05  2021-05-14T21:38:54.076302  
+7  2021-05-14 19:54:20  2021-05-14T21:38:54.076302  
+8  2021-05-14 20:11:03  2021-05-14T21:38:54.076302  
+9  2021-05-14 16:01:57  2021-05-14T21:38:54.076302  
+10 2021-05-14 18:55:07  2021-05-14T21:38:54.076302  
+11 2021-05-14 20:56:47  2021-05-14T21:38:54.076302  
+12 2021-05-14 19:30:37  2021-05-14T21:38:54.076302  
+13 2021-05-14 14:36:44  2021-05-14T21:38:54.076302  
+14 2021-05-14 16:06:09  2021-05-14T21:38:54.076302  
+15 2021-05-14 14:33:43  2021-05-14T21:38:54.076302  
+16 2021-05-14 16:17:03  2021-05-14T21:38:54.076302  
+17 2021-05-14 18:40:08  2021-05-14T21:38:54.076302  
+18 2021-05-14 20:33:35  2021-05-14T21:38:54.076302  
+19 2021-05-14 15:25:00  2021-05-14T21:38:54.076302  
+20 2021-05-14 20:20:11  2021-05-14T21:38:54.076302  
+21 2021-05-14 21:00:22  2021-05-14T21:38:54.076302  
+22 2021-05-14 17:53:15  2021-05-14T21:38:54.076302  
+23 2021-05-14 19:18:21  2021-05-14T21:38:54.076302  
+24 2021-05-14 20:27:54  2021-05-14T21:38:54.076302  
+25 2021-05-14 19:38:59  2021-05-14T21:38:54.076302  
+26 2021-05-14 15:06:03  2021-05-14T21:38:54.076302  
+27 2021-05-14 15:28:10  2021-05-14T21:38:54.076302  
+28 2021-05-14 19:55:57  2021-05-14T21:38:54.076302  
+29 2021-05-14 18:41:56  2021-05-14T21:38:54.076302  
+30 2021-05-13 23:00:56  2021-05-14T21:38:54.076302  
+31 2021-05-14 14:46:15  2021-05-14T21:38:54.076302  
+32 2021-05-14 14:36:05  2021-05-14T21:38:54.076302  
+33 2021-05-14 20:53:32  2021-05-14T21:38:54.076302  
+34 2021-05-14 18:20:48  2021-05-14T21:38:54.076302  
+35 2021-05-14 20:09:23  2021-05-14T21:38:54.076302  
+36 2021-05-14 12:27:37  2021-05-14T21:38:54.076302  
+37 2021-05-14 21:12:34  2021-05-14T21:38:54.076302  
+38 2021-05-14 19:49:18  2021-05-14T21:38:54.076302  
+39 2021-05-14 19:50:44  2021-05-14T21:38:54.076302  
+40 2021-05-14 18:05:24  2021-05-14T21:38:54.076302  
+41 2021-05-14 19:42:12  2021-05-14T21:38:54.076302  
+42 2021-05-14 19:08:13  2021-05-14T21:38:54.076302  
+43 2021-05-14 14:03:34  2021-05-14T21:38:54.076302  
+44 2021-05-14 19:13:35  2021-05-14T21:38:54.076302  
+45 2021-05-14 17:48:12  2021-05-14T21:38:54.076302  
+46 2021-05-14 18:41:13  2021-05-14T21:38:54.076302  
+47 2021-05-14 19:03:38  2021-05-14T21:38:54.076302  
+48 2021-05-14 14:06:02  2021-05-14T21:38:54.076302  
+49 2021-05-14 20:00:10  2021-05-14T21:38:54.076302  
+50 2021-05-14 15:47:14  2021-05-14T21:38:54.076302  
+51 2021-05-14 14:50:45  2021-05-14T21:38:54.076302  
+52 2021-05-14 19:30:40  2021-05-14T21:38:54.076302  
+53 2021-05-14 14:32:28  2021-05-14T21:38:54.076302  
+54 2021-05-14 15:50:10  2021-05-14T21:38:54.076302  
+55 2021-05-14 14:29:08  2021-05-14T21:38:54.076302  
+56 2021-05-14 13:18:54  2021-05-14T21:38:54.076302  
+57 2021-05-14 14:58:45  2021-05-14T21:38:54.076302  
+58 2021-05-14 19:25:46  2021-05-14T21:38:54.076302  
+59 2021-05-14 20:02:01  2021-05-14T21:38:54.076302  
+60 2021-05-14 20:45:26  2021-05-14T21:38:54.076302  
+61 2021-05-14 14:00:05  2021-05-14T21:38:54.076302  
+62 2021-05-14 19:25:57  2021-05-14T21:38:54.076302  
+63 2021-05-14 15:40:02  2021-05-14T21:38:54.076302  
+64 2021-05-14 17:18:45  2021-05-14T21:38:54.076302  
+65 2021-05-14 19:03:52  2021-05-14T21:38:54.076302  
+66 2021-05-14 20:53:29  2021-05-14T21:38:54.076302  
+67 2021-05-14 19:59:39  2021-05-14T21:38:54.076302  
+68 2021-05-14 15:37:07  2021-05-14T21:38:54.076302  
+69 2021-05-14 14:53:21  2021-05-14T21:38:54.076302  
+70 2021-05-14 14:00:50  2021-05-14T21:38:54.076302  
+71 2021-05-14 16:03:56  2021-05-14T21:38:54.076302  
+72 2021-05-14 20:30:47  2021-05-14T21:38:54.076302  
+73 2021-05-14 13:21:38  2021-05-14T21:38:54.076302  
+74 2021-05-14 19:39:43  2021-05-14T21:38:54.076302  
+75 2021-05-14 19:54:32  2021-05-14T21:38:54.076302  
+76 2021-05-14 12:32:00  2021-05-14T21:38:54.076302  
+77 2021-05-14 19:50:00  2021-05-14T21:38:54.076302  
+78 2021-05-14 11:23:14  2021-05-14T21:38:54.076302  
+79 2021-05-14 17:18:50  2021-05-14T21:38:54.076302  
+80 2021-05-14 15:02:00  2021-05-14T21:38:54.076302  
+81 2021-05-14 20:37:32  2021-05-14T21:38:54.076302  
+82 2021-05-14 18:48:18  2021-05-14T21:38:54.076302  
+83 2021-05-14 19:54:27  2021-05-14T21:38:54.076302  
+84 2021-05-14 16:46:03  2021-05-14T21:38:54.076302  
+85 2021-05-14 20:01:16  2021-05-14T21:38:54.076302  
+86 2021-05-14 15:32:25  2021-05-14T21:38:54.076302  
+87 2021-05-14 19:04:37  2021-05-14T21:38:54.076302  
+88 2021-05-14 18:21:07  2021-05-14T21:38:54.076302  
+89 2021-05-14 18:11:23  2021-05-14T21:38:54.076302  
+90 2021-05-14 19:07:38  2021-05-14T21:38:54.076302  
+91 2021-05-14 17:35:22  2021-05-14T21:38:54.076302  
+92 2021-05-14 18:01:02  2021-05-14T21:38:54.076302  
+93 2021-05-14 18:22:18  2021-05-14T21:38:54.076302  
+94 2021-05-14 21:24:13  2021-05-14T21:38:54.076302  
+95 2021-05-14 15:59:20  2021-05-14T21:38:54.076302  
+96 2021-05-14 19:42:45  2021-05-14T21:38:54.076302  
+97 2021-05-14 19:17:54  2021-05-14T21:38:54.076302  
+98 2021-05-14 21:07:23  2021-05-14T21:38:54.076302  
+99 2021-05-14 17:57:31  2021-05-14T21:38:54.076302  
